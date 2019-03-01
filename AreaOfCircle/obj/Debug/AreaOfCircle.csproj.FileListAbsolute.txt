@@ -1,0 +1,7 @@
+C:\Users\perscholas_student\source\repos\CSharpExercises\AreaOfCircle\bin\Debug\AreaOfCircle.exe.config
+C:\Users\perscholas_student\source\repos\CSharpExercises\AreaOfCircle\bin\Debug\AreaOfCircle.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\AreaOfCircle\bin\Debug\AreaOfCircle.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\AreaOfCircle\obj\Debug\AreaOfCircle.csprojAssemblyReference.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\AreaOfCircle\obj\Debug\AreaOfCircle.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\AreaOfCircle\obj\Debug\AreaOfCircle.pdb

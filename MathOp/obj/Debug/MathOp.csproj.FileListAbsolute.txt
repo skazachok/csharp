@@ -1,0 +1,7 @@
+C:\Users\perscholas_student\source\repos\CSharpExercises\MathOp\obj\Debug\MathOp.csprojAssemblyReference.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\MathOp\obj\Debug\MathOp.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\MathOp\bin\Debug\MathOp.exe.config
+C:\Users\perscholas_student\source\repos\CSharpExercises\MathOp\bin\Debug\MathOp.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\MathOp\bin\Debug\MathOp.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\MathOp\obj\Debug\MathOp.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\MathOp\obj\Debug\MathOp.pdb

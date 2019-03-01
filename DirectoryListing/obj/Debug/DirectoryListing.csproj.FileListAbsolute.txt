@@ -1,0 +1,7 @@
+C:\Users\perscholas_student\source\repos\CSharpExercises\DirectoryListing\bin\Debug\DirectoryListing.exe.config
+C:\Users\perscholas_student\source\repos\CSharpExercises\DirectoryListing\bin\Debug\DirectoryListing.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\DirectoryListing\bin\Debug\DirectoryListing.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\DirectoryListing\obj\Debug\DirectoryListing.csprojAssemblyReference.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\DirectoryListing\obj\Debug\DirectoryListing.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\DirectoryListing\obj\Debug\DirectoryListing.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\DirectoryListing\obj\Debug\DirectoryListing.pdb

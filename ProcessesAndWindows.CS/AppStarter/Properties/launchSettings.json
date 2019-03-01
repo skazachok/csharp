@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppStarter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\" \"www.google.com\" \"www.yahoo.com\""
+    }
+  }
+}

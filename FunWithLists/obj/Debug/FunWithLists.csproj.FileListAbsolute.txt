@@ -1,0 +1,7 @@
+C:\Users\perscholas_student\source\repos\CSharpExercises\FunWithLists\obj\Debug\FunWithLists.csprojAssemblyReference.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\FunWithLists\obj\Debug\FunWithLists.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\FunWithLists\bin\Debug\FunWithLists.exe.config
+C:\Users\perscholas_student\source\repos\CSharpExercises\FunWithLists\bin\Debug\FunWithLists.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\FunWithLists\bin\Debug\FunWithLists.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\FunWithLists\obj\Debug\FunWithLists.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\FunWithLists\obj\Debug\FunWithLists.pdb

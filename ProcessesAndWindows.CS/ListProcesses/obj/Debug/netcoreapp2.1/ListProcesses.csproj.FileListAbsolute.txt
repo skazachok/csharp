@@ -1,0 +1,11 @@
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\bin\Debug\netcoreapp2.1\ListProcesses.deps.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\bin\Debug\netcoreapp2.1\ListProcesses.runtimeconfig.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\bin\Debug\netcoreapp2.1\ListProcesses.runtimeconfig.dev.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\bin\Debug\netcoreapp2.1\ListProcesses.dll
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\bin\Debug\netcoreapp2.1\ListProcesses.pdb
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\obj\Debug\netcoreapp2.1\ListProcesses.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\obj\Debug\netcoreapp2.1\ListProcesses.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\obj\Debug\netcoreapp2.1\ListProcesses.AssemblyInfoInputs.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\obj\Debug\netcoreapp2.1\ListProcesses.AssemblyInfo.cs
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\obj\Debug\netcoreapp2.1\ListProcesses.dll
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListProcesses\obj\Debug\netcoreapp2.1\ListProcesses.pdb

@@ -1,0 +1,11 @@
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\bin\Debug\mobydick.txt
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\obj\Debug\WordCounter.csprojAssemblyReference.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\bin\Debug\TextAnalyzers.Lib.dll
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\bin\Debug\TextAnalyzers.Lib.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\WordCounter\obj\Debug\WordCounter.csproj.CopyComplete

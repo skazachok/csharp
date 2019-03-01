@@ -1,0 +1,11 @@
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\bin\Debug\netcoreapp2.1\AppStarter.deps.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\bin\Debug\netcoreapp2.1\AppStarter.runtimeconfig.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\bin\Debug\netcoreapp2.1\AppStarter.runtimeconfig.dev.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\bin\Debug\netcoreapp2.1\AppStarter.dll
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\bin\Debug\netcoreapp2.1\AppStarter.pdb
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\obj\Debug\netcoreapp2.1\AppStarter.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\obj\Debug\netcoreapp2.1\AppStarter.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\obj\Debug\netcoreapp2.1\AppStarter.AssemblyInfoInputs.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\obj\Debug\netcoreapp2.1\AppStarter.AssemblyInfo.cs
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\obj\Debug\netcoreapp2.1\AppStarter.dll
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\AppStarter\obj\Debug\netcoreapp2.1\AppStarter.pdb

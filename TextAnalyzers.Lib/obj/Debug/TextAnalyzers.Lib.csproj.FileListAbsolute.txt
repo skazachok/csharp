@@ -1,0 +1,6 @@
+C:\Users\perscholas_student\source\repos\CSharpExercises\TextAnalyzers.Lib\bin\Debug\TextAnalyzers.Lib.dll
+C:\Users\perscholas_student\source\repos\CSharpExercises\TextAnalyzers.Lib\bin\Debug\TextAnalyzers.Lib.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.csprojAssemblyReference.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.dll
+C:\Users\perscholas_student\source\repos\CSharpExercises\TextAnalyzers.Lib\obj\Debug\TextAnalyzers.Lib.pdb

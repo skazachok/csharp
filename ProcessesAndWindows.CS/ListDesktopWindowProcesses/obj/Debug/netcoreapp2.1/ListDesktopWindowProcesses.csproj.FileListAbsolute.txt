@@ -1,0 +1,11 @@
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\bin\Debug\netcoreapp2.1\ListDesktopWindowProcesses.deps.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\bin\Debug\netcoreapp2.1\ListDesktopWindowProcesses.runtimeconfig.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\bin\Debug\netcoreapp2.1\ListDesktopWindowProcesses.runtimeconfig.dev.json
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\bin\Debug\netcoreapp2.1\ListDesktopWindowProcesses.dll
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\bin\Debug\netcoreapp2.1\ListDesktopWindowProcesses.pdb
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\obj\Debug\netcoreapp2.1\ListDesktopWindowProcesses.csprojAssemblyReference.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\obj\Debug\netcoreapp2.1\ListDesktopWindowProcesses.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\obj\Debug\netcoreapp2.1\ListDesktopWindowProcesses.AssemblyInfoInputs.cache
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\obj\Debug\netcoreapp2.1\ListDesktopWindowProcesses.AssemblyInfo.cs
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\obj\Debug\netcoreapp2.1\ListDesktopWindowProcesses.dll
+C:\Users\perscholas_student\Desktop\Sviatlana's files\Feb 19\tasks\ProcessesAndWindows.CS\ListDesktopWindowProcesses\obj\Debug\netcoreapp2.1\ListDesktopWindowProcesses.pdb

@@ -1,0 +1,7 @@
+C:\Users\perscholas_student\source\repos\CSharpExercises\BoomsOrBlooms\obj\Debug\BoomsOrBlooms.csprojAssemblyReference.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\BoomsOrBlooms\obj\Debug\BoomsOrBlooms.csproj.CoreCompileInputs.cache
+C:\Users\perscholas_student\source\repos\CSharpExercises\BoomsOrBlooms\bin\Debug\BoomsOrBlooms.exe.config
+C:\Users\perscholas_student\source\repos\CSharpExercises\BoomsOrBlooms\bin\Debug\BoomsOrBlooms.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\BoomsOrBlooms\bin\Debug\BoomsOrBlooms.pdb
+C:\Users\perscholas_student\source\repos\CSharpExercises\BoomsOrBlooms\obj\Debug\BoomsOrBlooms.exe
+C:\Users\perscholas_student\source\repos\CSharpExercises\BoomsOrBlooms\obj\Debug\BoomsOrBlooms.pdb
